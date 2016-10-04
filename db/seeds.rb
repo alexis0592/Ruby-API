@@ -16,6 +16,6 @@ p3 = u2.posts.create(title:'First Post for U2', body:'Body First Comment for U2'
 p4 = u2.posts.create(title:'Second Post for U2', body:'Body Second post for U2')
 
 p3.comments.create(body: "This post was terrible", user:u1)
-p4.comments.create(body: "This second post was terrible for the second user", user:u1)
+p4.comments.create(body: "This second post was terrible for the second user news", user:u1)
 
 
