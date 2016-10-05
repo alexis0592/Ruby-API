@@ -95,7 +95,7 @@ GEM
     rb-fsevent (0.9.7)
     rb-inotify (0.9.7)
       ffi (>= 0.5.0)
-    ruby_dep (1.4.0)
+    ruby_dep (1.2.0)
     spring (2.0.0)
       activesupport (>= 4.2)
     sprockets (3.7.0)
